@@ -3,4 +3,5 @@ Final project for the Energy Analytics stream of UT's Freshman Research Initiati
 <br />
 The full project instructions can be viewed [here](https://github.com/fang-helen/Final-Project-FRI/blob/master/Hingle%20Basin.ipynb).  
 Our code can be found in [this file](https://github.com/fang-helen/Final-Project-FRI/blob/master/Final%20Project%20FRI.ipynb).  
+Our final presentation can be found [here](https://github.com/fang-helen/Final-Project-FRI/blob/master/Final%20Presentation.pptx) (.pptx file, download to view).
 <br />
